@@ -1,0 +1,10 @@
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe.config
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.pdb
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csprojAssemblyReference.cache
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Form1.resources
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Properties.Resources.resources
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csproj.GenerateResource.cache
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.exe
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.pdb
+C:\Users\Dima\Source\Repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.Form2.resources
